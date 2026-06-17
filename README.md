@@ -1,4 +1,4 @@
-# slackMC
+# SlackMC - Version 1.0
 SlackMC adalah Minecraft Standalone yang menggunakan versi minecraft java edition 1.9 yang portable dan ringan. SlackMC adalah Versi Modifikasi dari [NanoMC](https://github.com/skidsploiter/NanoMC)
 
 ## Cara Menggunakannya
