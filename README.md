@@ -1,7 +1,7 @@
 # SlackMC - Version 1.0
 SlackMC adalah Minecraft Standalone yang menggunakan versi minecraft java edition 1.12.2 yang portable dan cara menggunakan yang simpel dan juga Open-Sources, jadi anda dapat mengubah atau menggantinya sesuai selera kalian. [ind]
 
-SlackMC is a standalone Minecraft game that makes Minecraft Java Edition version 1.12.2 Portable.Using SlackMC It's simple to use and open source, so you can customize it to your liking.
+SlackMC is a standalone Minecraft game that makes Minecraft Java Edition version 1.12.2 Portable. Using SlackMC It's simple to use and open source, so you can customize it to your liking.
 
 ### Languages
 - [Indonesian](https://github.com/maker1912/slackMC/tree/main#cara-menggunakannya-ind)
