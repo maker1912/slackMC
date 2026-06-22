@@ -12,7 +12,7 @@ SlackMC is a standalone Minecraft game that makes Minecraft Java Edition version
 - [Google Translate](https://translate.google.com)
 
 ## Cara Menggunakannya [ind]
-[1] Download File nya dari packagesnya
+[1] Download File nya dari Releases
 
 [2] unzip/ekstrak file nya mengunnakan **Winrar** atau aplikasi yang mirip
 
@@ -30,7 +30,7 @@ SlackMC is a standalone Minecraft game that makes Minecraft Java Edition version
 ## English - Translated By Google Translate
 
 ## How to Use It [eng]
-[1] Download the file from the package
+[1] Download the file from the Releases
 
 [2] Unzip/extract the file using **Winrar** or a similar application
 
