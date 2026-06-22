@@ -8,9 +8,8 @@ SlackMC is a standalone Minecraft game that makes Minecraft Java Edition version
 - [English](https://github.com/maker1912/slackMC/tree/main#english---translated-by-google-translate)
 
 ### Contributor/Credits
-- Maker1912
-- Google Translate
-- 
+- [Maker1912](https://github.com/maker1912)
+- [Google Translate](https://translate.google.com)
 
 ## Cara Menggunakannya [ind]
 [1] Download File nya dari packagesnya
